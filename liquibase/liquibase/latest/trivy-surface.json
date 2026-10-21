@@ -3,8 +3,8 @@
   "Trivy": {
     "Version": "0.69.3"
   },
-  "ReportID": "01a15952-f783-7903-81dd-a555770ce090",
-  "CreatedAt": "2026-10-20T12:39:31.971592102Z",
+  "ReportID": "01a15e83-7a10-7472-b7cb-4dbb0cde7394",
+  "CreatedAt": "2026-10-21T12:50:37.200292302Z",
   "ArtifactID": "sha256:cbd55333190084fe6100f5bf777856d02e8471ec98076b931eb0924600551c75",
   "ArtifactName": "ghcr.io/cyberspace-cs/liquibase/liquibase-liquibase:5e4963510d80b572a9e3cd5930c2ccec3ea28477",
   "ArtifactType": "container_image",
@@ -32,7 +32,7 @@
       "ghcr.io/cyberspace-cs/liquibase/liquibase-liquibase:5e4963510d80b572a9e3cd5930c2ccec3ea28477"
     ],
     "RepoDigests": [
-      "ghcr.io/cyberspace-cs/liquibase/liquibase-liquibase@sha256:dc90b09007071b6eacf531cb600fb4a999926a9855c993c60beffec7ce2bcfd2"
+      "ghcr.io/cyberspace-cs/liquibase/liquibase-liquibase@sha256:3bc2c8d982b8439d7dedd891893e74592249034f03bb5b4caffcf277ea002a0c"
     ],
     "Reference": "ghcr.io/cyberspace-cs/liquibase/liquibase-liquibase:5e4963510d80b572a9e3cd5930c2ccec3ea28477",
     "ImageConfig": {
@@ -10861,6 +10861,7 @@
             "https://groups.google.com/g/golang-announce/c/U2fTuyDJznI",
             "https://nvd.nist.gov/vuln/detail/CVE-2026-78667",
             "https://pkg.go.dev/vuln/GO-2026-6609",
+            "https://ubuntu.com/security/notices/USN-8935-1",
             "https://www.cve.org/CVERecord?id=CVE-2026-78667",
             "https://www.openwall.com/lists/oss-security/2026/10/08/9"
           ],
@@ -10924,6 +10925,7 @@
             "https://groups.google.com/g/golang-announce/c/ZPwCyRUuGBs",
             "https://nvd.nist.gov/vuln/detail/CVE-2026-78669",
             "https://pkg.go.dev/vuln/GO-2026-6611",
+            "https://ubuntu.com/security/notices/USN-8935-1",
             "https://www.cve.org/CVERecord?id=CVE-2026-78669",
             "https://www.openwall.com/lists/oss-security/2026/10/08/9"
           ],
